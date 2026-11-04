@@ -1,0 +1,21 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/milczarekIT/rainbow-statusline/releases/download/v0.1.1/rainbow-statusline_windows_amd64.zip",
+            "bin": [
+                "rainbow-statusline.exe"
+            ],
+            "hash": "d8c13b519741869cddbc5ee585831412f57ee2f39cd130436bd14fb1d277442a"
+        },
+        "arm64": {
+            "url": "https://github.com/milczarekIT/rainbow-statusline/releases/download/v0.1.1/rainbow-statusline_windows_arm64.zip",
+            "bin": [
+                "rainbow-statusline.exe"
+            ],
+            "hash": "ee04b22864f3802720215f485496c3567061bcb1b0db012e2f2a3668674846a4"
+        }
+    },
+    "homepage": "https://github.com/milczarekIT/rainbow-statusline",
+    "description": "Unified status line for AI coding assistants"
+}
