@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/milczarekIT/rainbow-statusline/releases/download/v0.1.1/rainbow-statusline_windows_amd64.zip",
+            "url": "https://github.com/milczarekIT/rainbow-statusline/releases/download/v0.2.0/rainbow-statusline_windows_amd64.zip",
             "bin": [
                 "rainbow-statusline.exe"
             ],
-            "hash": "d8c13b519741869cddbc5ee585831412f57ee2f39cd130436bd14fb1d277442a"
+            "hash": "f1daef55692dd4a280e3705c78d1d80f599b676b9cb806747f1a27e912aa6aa4"
         },
         "arm64": {
-            "url": "https://github.com/milczarekIT/rainbow-statusline/releases/download/v0.1.1/rainbow-statusline_windows_arm64.zip",
+            "url": "https://github.com/milczarekIT/rainbow-statusline/releases/download/v0.2.0/rainbow-statusline_windows_arm64.zip",
             "bin": [
                 "rainbow-statusline.exe"
             ],
-            "hash": "ee04b22864f3802720215f485496c3567061bcb1b0db012e2f2a3668674846a4"
+            "hash": "a7d60bb2ccb7c4e7f6fedf82d718a4d69e0b6cf3536fd698d422ec73d654b653"
         }
     },
     "homepage": "https://github.com/milczarekIT/rainbow-statusline",
